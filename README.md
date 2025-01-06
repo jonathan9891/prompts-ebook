@@ -16,20 +16,6 @@ Bem-vindo ao repositório do meu ebook infantil sobre Inteligência Artificial! 
 
 O ebook é composto por 4 capítulos, cada um com uma nova aventura do Robozinho Curioso. O esboço dos capítulos foi criado utilizando o seguinte prompt: "crie um esboço de 4 capítulos para a história 'O Robozinho Curioso e as Aventuras no Mundo Digital', que deve ser indicada para crianças entre 2 e 6 anos de idade. o livro deve ter no máximo 10 páginas".
 
-### Capítulos
-
-1. **A Primeira Exploração de Zippy**
-   - Zippy e seus amigos descobrem a entrada para o mundo digital e começam sua primeira aventura.
-   
-2. **Descobrindo a Nuvem Cintilante**
-   - Zippy conhece a Nuvem Cintilante, que parece feita de faíscas douradas, e eles exploram juntos.
-
-3. **Aventuras com Pixel**
-   - Zippy e a Nuvem Cintilante encontram Pixel, um cubo colorido e animado, e juntos enfrentam desafios no mundo digital.
-
-4. **O Grande Desafio Digital**
-   - Zippy e seus amigos enfrentam um grande desafio no mundo digital e aprendem importantes lições sobre amizade e curiosidade.
-
 ## 📷 Imagens
 
 As ilustrações do ebook foram geradas utilizando o seguinte prompt para IA: "Ilustre uma cena do livro infantil O Robozinho Curioso e as Aventuras no Mundo Digital. Mostre o robô Zippy, pequeno e amigável, com um corpo metálico brilhante e olhos que lembram lanternas azuis, explorando um mundo digital vibrante e colorido. Ao seu redor, há elementos como luzes piscando, formas geométricas flutuantes, e dois amigos: a Nuvem Cintilante, que parece feita de faíscas douradas, e Pixel, um cubo colorido com uma expressão animada. O cenário deve ser lúdico e mágico, com cores vivas, adequadas para crianças pequenas. Destaque a atmosfera de curiosidade e aventura."
